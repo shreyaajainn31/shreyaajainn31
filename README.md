@@ -1,6 +1,6 @@
-Hi there!
+ Hi there!
 
-My name is Shreya and I'm pursuing Masters in computer science from University at Buffalo. Here's some info about me!
+ My name is Shreya and I'm pursuing Masters in computer science from University at Buffalo. Here's some info about me!
 
 ⚡ Work experience:
 
