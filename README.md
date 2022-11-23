@@ -15,6 +15,6 @@
   * Backend Development.
   * Fullstack Development.
 
-My website: https://shreyaajainn31.github.io/shreyajain31/index.html
+My website: https://shreyaajainn31.github.io/shreyajain31/
 
 💬 Reach me by email or LinkedIn! shreya31jainn@gmail.com | [LinkedIn](https://www.linkedin.com/in/shreya-jain-4784b8176/)
