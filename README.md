@@ -1,4 +1,4 @@
- Hi there!
+ Hi there! I am #opentowork
 
  My name is Shreya and I'm pursuing Masters in computer science from University at Buffalo. Here's some info about me!
 
